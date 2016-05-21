@@ -1,5 +1,6 @@
 /*
 	Tested with: gcc (GCC) 6.1.1 20160501
+	Compile with `gcc -m32 magic.c -o magic`
 */
 
 #include <string.h>
